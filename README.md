@@ -3926,6 +3926,10 @@ else:
 ```
 
 <br>
+
+
+
+
 ## Demo
 We have a demo web application using the Python SDK, which includes the following features:
 
@@ -3947,6 +3951,9 @@ We have a demo web application using the Python SDK, which includes the followin
 You can get a copy of our demo project at [GitHub](https://github.com/LoginRadius/python-sdk).
 
 <br>
+
+
+
 
 ### Configuration
 
